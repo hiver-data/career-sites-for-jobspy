@@ -1,0 +1,3 @@
+pandas>=2.0
+# optional, to combine with job-board results:
+# python-jobspy>=1.3
